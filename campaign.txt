@@ -1,0 +1,6 @@
+1,free call
+2,free message
+3,No free minutes
+4,free 5 Min every day
+5,free 10 Min every day
+6,free 20 Min every day
